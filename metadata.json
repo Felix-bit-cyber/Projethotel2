@@ -1,0 +1,6 @@
+{
+  "name": "Maman Kinja Horizon",
+  "description": "Un tableau de bord hôtelier moderne interactif avec gestion des chambres, réservations, restaurant, salles de réunion et statistiques réelles calculées en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
